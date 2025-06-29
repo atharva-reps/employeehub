@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\HP\Downloads\Employee-Management-master\employee_management\myenv
+set VIRTUAL_ENV=C:\Users\HP\OneDrive\Documents\GitHub\employeehub\employee_management\myenv
 
 if not defined PROMPT set PROMPT=$P$G
 

@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\HP\Downloads\Employee-Management-master\employee_management\myenv"
+VIRTUAL_ENV="C:\Users\HP\OneDrive\Documents\GitHub\employeehub\employee_management\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
